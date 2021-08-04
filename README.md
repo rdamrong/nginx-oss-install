@@ -1,4 +1,4 @@
-# ติดต้อง NGINX Open Source รุ่นล่าสุดใน Ubuntu 20.04
+# ติดตั้ง NGINX Open Source รุ่นล่าสุดใน Ubuntu 20.04
 
 1. sudo apt install curl gnupg2 ca-certificates lsb-release
 2. echo "deb http://nginx.org/packages/ubuntu \`lsb_release -cs\` nginx" \
