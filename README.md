@@ -11,3 +11,5 @@
 6. sudo mv /tmp/nginx_signing.key /etc/apt/trusted.gpg.d/nginx_signing.asc
 7. sudo apt update
 8. sudo apt install nginx
+
+Ref: https://nginx.org/en/linux_packages.html
